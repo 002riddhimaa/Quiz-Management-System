@@ -10,6 +10,7 @@
 * Hibernate.
 * J2EE.
 * MySQL.
+* Cloud computing
 * Tool:- Eclipse IDE.
 
 
